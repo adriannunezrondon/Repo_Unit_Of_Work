@@ -5036,11 +5036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\WebApi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\anuniez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\WebApi\\obj\\",
+      "outputPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5061,11 +5061,11 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\Entities\\Entities.csproj"
+            "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\Entities\\Entities.csproj"
             }
           }
         }

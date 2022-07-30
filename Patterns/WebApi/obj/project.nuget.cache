@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oda0iVhM/9mMuapdal/YmaGhm5Np/uETBXyTCVp6yio0ADgeJE8zPEbcmLWKD1X5ayuj5MJxFBesaLjlHb0RUw==",
+  "dgSpecHash": "WnxGP3oOpIgeWiUzmHsT79sBEcIDUZ61hqDMPcstFD1797eHUKuzcGRqjXMnGleqmNdXy2tOJH6Ekoqr/w7bXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\WebApi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anuniez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\anuniez\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

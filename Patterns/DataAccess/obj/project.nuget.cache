@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rb5nZNopWSYhgjL+2neS96gAnU+8CWezLEVg5w7aecXggftHYqdDO+N6pEIU+gdU6TXlAws/EAxOEEJ+trlqWQ==",
+  "dgSpecHash": "Yjr5qqZUzb73omaUWEhljh95KI9jye3s8WXOQ2q1AmZYUEH47KXA8HjS/OjjkB5fqSiS+NEKzVzCnhQx/dKVvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anuniez\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\anuniez\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

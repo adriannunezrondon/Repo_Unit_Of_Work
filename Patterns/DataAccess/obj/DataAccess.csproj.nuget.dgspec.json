@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\anuniez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\Entities\\Entities.csproj"
+              "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\Entities\\Entities.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\Entities\\Entities.csproj": {
+    "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\anuniez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Proyecto Copextel\\Patterns\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\anuniez\\Documents\\Adrian\\Patern Respository_Unit_of_Work\\Patterns\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
