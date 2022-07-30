@@ -7,8 +7,7 @@ namespace DataAccess.Generic
 {
     public interface IUnitOfWork : IDisposable
     {
-        WebApiDbContext Context { get; } 
-        //FlyDBContext Context { get; } 
+        WebApiDbContext Context { get; }        
         void Commit();
     }
 
