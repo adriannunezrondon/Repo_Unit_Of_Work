@@ -1,0 +1,20 @@
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\Entities\obj\Debug\netstandard2.0\Entities.csproj.AssemblyReference.cache
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\Entities\obj\Debug\netstandard2.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\Entities\obj\Debug\netstandard2.0\Entities.pdb

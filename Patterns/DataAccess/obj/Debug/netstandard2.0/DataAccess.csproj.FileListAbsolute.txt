@@ -1,0 +1,26 @@
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\anuniez\Documents\Adrian\RepositoryUnitOfWorkNetCore3\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\anuniez\Documents\Adrian\Proyecto Copextel\Patterns\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
